@@ -79,6 +79,7 @@ public class OperationServlet extends HttpServlet {
                 out.println("");
                 out.println("</body>");
                 out.println("</html>");
+                 out.println();
              }
              else{
                 out.println("<!DOCTYPE html>");
